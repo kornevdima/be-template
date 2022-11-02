@@ -1,0 +1,9 @@
+.circleci
+.git
+.eslintrc.js
+.dockerignore
+Dockerfile
+node_modules
+.scannerwork
+.dist
+.next
